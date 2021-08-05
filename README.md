@@ -1,5 +1,2 @@
-# Bluescape Developer Portal
+# Bluescape Developer Portal. All rights reserved for Bluescape. This cloned repo is ONLY for Ambassador testing purposes
 
-Site for the Bluescape Developer Portal.
-Current site URL: https://developer.bluescape.com/
-# devportal-test
